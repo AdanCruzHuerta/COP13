@@ -1,0 +1,111 @@
+body{
+	background: #FFFFFF;
+}
+header{
+	height: 45px;
+	width: 100%;
+}
+nav{
+	border: 0px !important;
+	border-radius: 0px !important;
+	background: #008D20 !important;
+}
+.navbar-nav > li > a{
+	color: #FFFFFF !important;
+	font-weight: bold;
+}
+.navbar-nav > li > a:hover{
+	color: #212121 !important;
+}
+.redes a img{
+	margin-top: 25px;
+	position: absolute;
+}
+#red1{
+	margin-left: 0px;
+}
+#red2{
+	margin-left: 60px;
+}
+#logos{
+	width: 100%;
+	height: 145px;
+}
+.logos-lg{
+	margin-top: 10px;
+}
+#myCarousel{
+	width: 100%;
+	height: 400px;
+}
+.carousel{
+	width: 1410px;
+	height: 410px !important;
+}
+.paneles{
+	margin-top: 50px;
+}
+.panel-body{
+	padding: 0px !important;
+}
+.panel-body > img {
+	width: 100%;
+	height: 250px;
+}
+footer{
+	width: 100%;
+	height: 150px;
+	background: #008D20 !important;
+	margin-top: 100px;
+}
+footer p{
+	color: #FFFFFF;
+	padding-top: 70px;
+	text-align: center;
+}
+.blogs{
+	margin-top: 40px;
+}
+.blogs img{
+	width: 100%;
+}
+p{
+	text-align: justify;
+	font-size: 18px;
+	margin-top: 20px;
+	line-height: 30px;
+}
+.line{
+	height: 5px;
+	background: #008D20 !important;
+}
+.p-contacto{
+	text-align: justify;
+	font-size: 17px !important;
+}
+.required{
+	color: red;
+}
+.img-qs{
+	width: 100%;
+	height: 380px;
+}
+.body-qs, .body-sobre{
+	margin-top: 40px;
+}
+.body-qs img{
+	margin-bottom: 30px;
+}
+.logos-qs{
+	width: 90%; 
+	margin-bottom: -40px;
+}
+.biodiversidad{
+	width: 100%;
+	height: 280px;
+	margin-top: 20px;
+}
+.biodiversidad1{
+	width: 100%;
+	margin-top: 20px;
+}
