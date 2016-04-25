@@ -31,6 +31,8 @@
 						    		<ul class="dropdown-menu">
 							            <li><a href="/quienes-somos">Quiénes somos</a></li>
 							            <li><a href="#!">Grupos participantes</a></li>
+							            <li><a href="#!">Organigrama</a></li>
+						      			<li><a href="#!">Directorio</a></li>
 							        </ul>
 						    	</li>
 						      	<li><a href="/blog">Blog</a></li>
@@ -39,13 +41,15 @@
 						    		<ul class="dropdown-menu">
 							            <li><a href="/sobre-cop13">Sobre la COP13</a></li>
 							            <li><a href="#!">Programa de la COP13</a></li>
-							            <li><a href="#!">Eventos de la COP13</a></li>
-							            <li><a href="#!">Documentos y sitios de interés</a></li>
+							            <li><a href="#!">Eventos PreCOP13</a></li>
+							            <li><a href="#!">Documentos</a></li>
+							            <li><a href="/sitios-de-interes">Sitios de interés</a></li>
+							            <li><a href="#!">Videos</a></li>
+							            <li><a href="#!">Recursos</a></li>
 							        </ul>
 						    	</li>
 						      	<li><a href="#">Propuestas</a></li>
 						      	<li><a href="#">Red de jovenes</a></li>
-						      	<li><a href="#">Directorio</a></li>
 						      	<li><a href="/contacto">Contacto</a></li>
 						    </ul>
 						</div>

@@ -35,7 +35,7 @@
                         </a>
                     </div>
                     <div class="panel-footer">
-                        <h3>Blog</h3>
+                        <h3>Blogs</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, voluptas, sunt vitae mollitia iure perferendis rerum odio! Natus, cupiditate, est, quas, non perspiciatis in quo possimus eos voluptas tempore maxime.</p>
                         <a href="/blog">Ver mas</a>
                     </div>
