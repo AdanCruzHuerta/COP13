@@ -3,16 +3,15 @@
 <section class="container">
 	<div class="row">
 		<div class="col-xs-12">
-			<div class="jumbotron">
-				<div class="container">
-			    	<h2><strong>Contacto</strong></h2>
-			    	<p class="p-contacto">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			    	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-			    	<br/>
-			    	<p class="p-contacto"><b>Dirección: </b>Tecnológico No. 1 <br>
-			    	<b>Colonia: </b>Liberación <br>
-			    	<b>Teléfono: </b>+52 (312) 123 4567</p>
-			  	</div>
+			<div class="jumbotron trans">	
+				<div class="trans2"></div>
+				<h2><strong>Contacto</strong></h2>
+				<p class="p-contacto">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+				<br/>
+				<p class="p-contacto"><b>Dirección: </b>Tecnológico No. 1 <br>
+				<b>Colonia: </b>Liberación <br>
+				<b>Teléfono: </b>+52 (312) 123 4567</p>
 			</div>
 		</div>
 	</div>

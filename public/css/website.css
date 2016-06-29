@@ -115,3 +115,22 @@ p{
 	background: green;
 	margin-top: 50px;
 }
+
+.trans {
+	position: relative; 
+	z-index: 10;
+
+}
+
+.trans2{
+	background-color: #5C6361; 
+	position:absolute; 
+	filter: blur(6px);
+	z-index:-1; 
+	top:0; 
+	left:0; 
+	right:0; 
+	bottom:0; 
+	opacity:0.1;
+
+}
