@@ -1,5 +1,6 @@
 <?php 
 Route::get('/', function () {
+	return "welcome";
     return view('website.home');
 });
 Route::get('/quienes-somos', function () {
